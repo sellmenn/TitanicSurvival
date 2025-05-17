@@ -1,4 +1,4 @@
-# Titanic Survival Prediction with PyTorch (Single File)
+# Titanic Survival Prediction with PyTorch
 
 This project uses a simple PyTorch neural network to predict passenger survival on the Titanic dataset (`train.csv` and `test.csv`). The script handles training and prediction in one file — from data preprocessing to model saving and inference.
 
